@@ -3,6 +3,4 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/suaxz" target="blank"><img src="https://img.shields.io/twitter/follow/suaxz?logo=twitter&style=for-the-badge" alt="suaxz" /></a> </p>
-
 - jarek jest jebany jebac jarka chujka
